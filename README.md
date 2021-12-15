@@ -6,5 +6,6 @@ Just a place to keep some notes
 * Using the non GitHub CLI section
 * The authorization is failing on the push
 * https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication
+* https://github.com/settings/tokens
 
 
