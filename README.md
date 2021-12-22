@@ -1,7 +1,7 @@
 # RandomNotes
 Just a place to keep some notes
 
-## Setting up IntelliJ at work
+## Setting up IntelliJ
 * On GitHub create repo
     * Keep web page open, and logged in
 * On local, clone it
