@@ -11,9 +11,10 @@
 * Paste token into popup window
 * Push should work at that point
 
-## Populatinng GitHub repo
+## Add an existing project to GitHub
 * Good description [here](https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line)
     * Following the non GitHub CLI section in the article above
+    * Create a repo on GitHub ...
   ```
   $> git init -b main
   $> git add . 
@@ -27,5 +28,27 @@
     * The authorization is failing on the push
     * https://docs.github.com/en/authentication/securing-your-account-with-two-factor-authentication-2fa/accessing-github-using-two-factor-authentication
     * https://github.com/settings/tokens
+
+## Another way
+This I think is a little simpler
+
+* In GitHub 
+  * Forked a repo
+* On local
+  * Clone it
+  * One way of doing that.  This is the example of grabbing a branch only
+
+```git clone --single-branch -b react-mini https://github.com/KidPluto/youtube.git .```
+
+  * Open project in IDE
+  * Update a file
+  * Commit and Push
+
+
+
+
+
+
+
 
 
