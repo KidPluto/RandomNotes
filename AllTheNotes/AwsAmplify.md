@@ -9,3 +9,5 @@ The [video](https://app.pluralsight.com/library/courses/full-stack-serverless-ap
 * Create Vue project 
 * Install wave-ui 
 * Got stuck with sass-loader
+
+Dec 2021
