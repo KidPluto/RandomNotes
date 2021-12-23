@@ -19,21 +19,21 @@
 Part 1 of 3 [link](https://youtu.be/c1xTDSIXit8)
 
 ```
-cd something/git
+cd <something>/git
 mkdir ecommerce
 cd ecommerce
-git clone --single-branch -b react-mini https://github.com/safak/youtube.git
+git clone --single-branch -b react-mini https://github.com/safak/youtube.git .
 ```
-* This didn't mimic what happened on the video.  I ended up with ecommerce/youtube/ an extract directory.
-* When I opened this project I drilled down into youtube/
-* Still stuck on this, it seems to be cloning the correct branch, but is creating a youtube/ directory
-
 * Trying to use WebStorm for my IDE
 * yarn didn't work, so using npm
 * This is what got kicked off, and seems to have worked
-```
-npm-cli.js install --scripts-prepend-node-path=auto
-```
+
+  ```npm-cli.js install --scripts-prepend-node-path=auto```
+
+* On another interation this seems to have worked also
+  
+  ```npm install```
+
 Urbanist [font](https://fonts.google.com/specimen/Urbanist)
 
 ----
@@ -54,9 +54,8 @@ Part 3 of 3 [link](https://www.youtube.com/watch?v=y66RgYMAgSo&list=PLj-4DlPRT48
   * Node(.js) - the premier JavaScript web server
 
 * He makes a point of not creating a React app this way
-```aidl
-npx create-react-app
-```
+
+  ```npx create-react-app```
 
 
 

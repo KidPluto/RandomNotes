@@ -40,12 +40,9 @@ $> git merge origin/GUA-22147
 
 ----
 Clone just a single branch
-* Nothing I can do will get this to work
-* The Lama Dev tutorial shows this working
-* No matter what I do, I end up with the repo creating a directory and it isn't clear if I am just getting the branch
 ```
-git clone --single-branch -b react-mini https://github.com/safak/youtube.git
-git clone --single-branch --branch blog https://github.com/http4k/http4k.git
-git clone --branch blog https://github.com/http4k/http4k.git
+git clone --single-branch -b react-mini https://github.com/safak/youtube.git .
+git clone --single-branch --branch blog https://github.com/http4k/http4k.git .
+git clone --branch blog https://github.com/http4k/http4k.git .
 ```
 
