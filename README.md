@@ -5,4 +5,5 @@ Just a place to keep some notes
 * [Misc GitHub](https://github.com/KidPluto/RandomNotes/blob/main/AllTheNotes/MiscGitHub.md)
 * [Full Stack tutorial](https://github.com/KidPluto/RandomNotes/blob/main/AllTheNotes/FullStackTutotial.md)
 * [AWS Amplify](https://github.com/KidPluto/RandomNotes/blob/main/AllTheNotes/AwsAmplify.md)
+* [Terraform](https://github.com/KidPluto/RandomNotes/blob/main/AllTheNotes/Terraform.md)
 
