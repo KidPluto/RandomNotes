@@ -8,7 +8,9 @@ Just a place to keep some notes
 * [Terraform](https://github.com/KidPluto/RandomNotes/blob/main/AllTheNotes/Terraform.md)
 
 Need to add a page for Git Bash
-This is a good reference for key board comamnds https://gist.github.com/tuxfight3r/60051ac67c5f0445efee
-Also I can document my .bash_profile
+
+* This is a good reference for key board comamnds https://gist.github.com/tuxfight3r/60051ac67c5f0445efee
+* Also I can document my .bash_profile
+* Shift - insert lets me paste into the terminal window!
 
 
