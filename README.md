@@ -13,5 +13,12 @@ Need to add a page for Git Bash
 * Also I can document my .bash_profile
 * Control - insert is copy
 * Shift - insert is paste
+* See it some thing like this in .bash_profile resizes the terminal
+```
+#!/bin/bash
+resize -s 33 100
+stty rows 33
+stty cols 100
+```
 
 
