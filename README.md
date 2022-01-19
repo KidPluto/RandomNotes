@@ -11,9 +11,10 @@ Need to add a page for Git Bash
 
 * This is a good reference for key board comamnds https://gist.github.com/tuxfight3r/60051ac67c5f0445efee
 * Also I can document my .bash_profile
-* Control - insert is copy
-* Shift - insert is paste
-* See it some thing like this in .bash_profile resizes the terminal
+* Copy is `control - insert`
+* Paste is `shift - insert`
+* Warning - when you try and use a Windows formatted path it might drop the slashes.  So `C:\Usr\Me` might become `c:usrme`
+* See if some thing like this in .bash_profile resizes the terminal
 ```
 #!/bin/bash
 resize -s 33 100
