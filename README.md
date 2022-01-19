@@ -13,7 +13,7 @@ Need to add a page for Git Bash
 * Also I can document my .bash_profile
 * Copy is `control - insert`
 * Paste is `shift - insert`
-* Warning - when you try and use a Windows formatted path it might drop the slashes.  So `C:\Usr\Me` might become `c:usrme`
+* Warning - when you try and use a Windows formatted path it might drop the slashes.  So `C:\Usr\Me` might become `c:usrme`  Also when using double quotes insert them on the command line instead of trying to cut and paste from another location - as those might not be the correct double quotes.
 * See if some thing like this in .bash_profile resizes the terminal
 ```
 #!/bin/bash
