@@ -21,5 +21,11 @@ resize -s 33 100
 stty rows 33
 stty cols 100
 ```
+This alias works, assuming NotePad++ is installed in that location
+```
+alias npp='winpty "C:\Program Files\Notepad++\notepad++.exe"'
+```
+$> npp file.name
+
 
 
